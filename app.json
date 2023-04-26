@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.omkar887.Expense_Tracker"
     },
     "web": {
       "favicon": "./assets/favicon.png"
